@@ -156,7 +156,7 @@ $(SolutionDir)\Build-bintoc\$(PlatformShortName)\$(Configuration)\bintoc.exe $(S
     <IntDir>Build-$(ProjectName)\x86\$(Configuration)\</IntDir>
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v143</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
@@ -164,7 +164,7 @@ $(SolutionDir)\Build-bintoc\$(PlatformShortName)\$(Configuration)\bintoc.exe $(S
     <IntDir>Build-$(ProjectName)\x86\$(Configuration)\</IntDir>
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v143</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -173,7 +173,7 @@ $(SolutionDir)\Build-bintoc\$(PlatformShortName)\$(Configuration)\bintoc.exe $(S
     <IntDir>Build-$(ProjectName)\$(Platform)\$(Configuration)\</IntDir>
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v143</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
@@ -181,7 +181,7 @@ $(SolutionDir)\Build-bintoc\$(PlatformShortName)\$(Configuration)\bintoc.exe $(S
     <IntDir>Build-$(ProjectName)\$(Platform)\$(Configuration)\</IntDir>
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v143</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
